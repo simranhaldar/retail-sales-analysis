@@ -39,10 +39,10 @@ The goal of this project is to help retail businesses:
 retail-data-analytics-capstone
 │
 ├── data/
-│   └── retail_dataset.csv
+│   └── retail_sales_dataset.csv
 │
 ├── notebooks/
-│   └── Retail_Data_Analytics.py
+│   └── RetailSalesAnalysis.py
 │
 ├── images/
 │
