@@ -135,19 +135,8 @@ retail-data-analytics-capstone
 
 ---
 
-## 📷 Project Screenshots
-
-### Sales Trend Analysis
-
-_Add screenshot here_
-
-### Product Category Performance
-
-_Add screenshot here_
-
-### Customer Insights Dashboard
-
-_Add screenshot here_
+## 📷 Power Bi Dashboard Screenshot
+<img width="1675" height="872" alt="image" src="https://github.com/user-attachments/assets/8b399128-b464-43c5-9eec-212c400f1ebd" />
 
 ---
 
