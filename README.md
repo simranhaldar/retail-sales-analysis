@@ -44,7 +44,7 @@ retail-data-analytics-capstone
 ├── notebooks/
 │   └── RetailSalesAnalysis.py
 │
-├── images/
+├── PowerBi_Retail_data_Dashboard.pdf
 │
 ├── reports/
 │   └── Final_Business_Report.md
